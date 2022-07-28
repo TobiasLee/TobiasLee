@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm Lei Li, a second-year master student at Peking University, advised by Prof. [Xu SUN](https://xusun.org).
+I'm Lei Li, a final-year master student at Peking University, advised by Prof. [Xu SUN](https://xusun.org).
 
-Currently, I am very interested in Natural Language Processing, especially the efficiency of pre-trained language models.
+Currently, I am very interested in Natural Language Processing, especially improving the efficiency of pre-trained language models and exploring fundamental problems in multi-modal learning.
+
 
 
 
