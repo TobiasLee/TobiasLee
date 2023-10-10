@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Lei Li, a final-year master student at Peking University, advised by Prof. [Xu SUN](https://xusun.org).
+I'm Lei Li, a PhD student at The University of Hong Kong, co-supervised by Prof. [Qi Liu](https://leuchine.github.io/) and Prof. [Lingpeng Kong](https://ikekonglp.github.io/). 
 
-Currently, I am very interested in Natural Language Processing, especially improving the efficiency of pre-trained language models and exploring fundamental problems in multi-modal learning.
-
-
+My research interests lie in empowering LLMs with multi-modal abilities and exploring their emerging capabilities. Previously, I completed my master’s degree at Peking University as a member of [Lanco](https://lancopku.github.io/), advised by Prof. [Xu Sun](https://xusun.org), and my bachelor’s degree at Xidian University.
 
 
 <a href="https://leili.site/">
