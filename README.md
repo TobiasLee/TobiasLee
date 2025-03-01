@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Lei Li, a PhD student at The University of Hong Kong, co-supervised by Prof. [Qi Liu](https://leuchine.github.io/) and Prof. [Lingpeng Kong](https://ikekonglp.github.io/). 
+I'm Lei Li, a PhD student at the University of Hong Kong, co-supervised by Prof. [Lingpeng Kong](https://ikekonglp.github.io/) and Prof. [Qi Liu](https://leuchine.github.io/). I completed my master’s degree at Peking University as a member of [Lanco](https://lancopku.github.io/), advised by Prof. [Xu Sun](https://xusun.org), and my bachelor’s degree at Xidian University.
 
-My research interests lie in empowering LLMs with multi-modal abilities and exploring their emerging capabilities. Previously, I completed my master’s degree at Peking University as a member of [Lanco](https://lancopku.github.io/), advised by Prof. [Xu Sun](https://xusun.org), and my bachelor’s degree at Xidian University.
+My current research interests lie in developing multi-modal LLMs and understanding the emerging capabilities of LLMs.
 
 
-<a href="https://leili.site/">
+<a href="https://lilei-nlp.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tobiaslee&count_private=true&show_icons=true" />
 </a>  
 
